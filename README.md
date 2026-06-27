@@ -1,38 +1,52 @@
-<h1 align="center">Hi 👋, I'm Chennakeshav Kanepogu</h1>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Data+Analyst;Business+Intelligence+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Always+Learning+New+Things!" />
-</p>
+# 👋 Hi, I'm Chennakeshav Kanepogu
 
-<p align="center">
+### 📊 Data Analyst | Business Intelligence | Python | SQL | Power BI
 
-<img src="https://img.shields.io/badge/Location-Mumbai,%20India-blue?style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Turning+Data+into+Business+Insights;Python+%7C+SQL+%7C+Power+BI;Always+Learning+Something+New!"/>
 
-<img src="https://img.shields.io/badge/Open%20To-Data%20Analyst-success?style=for-the-badge"/>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=keshavkhanepal&style=for-the-badge&color=blue"/>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-</p>
+<a href="mailto:chennakeshavkanepogu@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/keshavkhanepal">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=keshavkhanepal&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
 
-# 👨‍💻 About Me
+# 💫 About Me
 
-🎓 B.Tech Computer Science Engineering (2026)
+🎓 B.Tech Computer Science Engineering Graduate (2026)
 
 💼 Data Analyst Intern @ QSpiders
 
-📊 Passionate about Data Analytics & Business Intelligence
+📍 Mumbai, India
 
-📈 Love transforming raw data into business insights
+📊 Passionate about solving business problems using data
 
-🌱 Currently learning Machine Learning & Data Engineering
+📈 Skilled in Python, SQL, Power BI, Excel & Tableau
+
+🌱 Currently learning Machine Learning and Data Engineering
+
+🎯 Looking for Data Analyst & Business Intelligence opportunities
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
+### 👨‍💻 Programming
 
 <p>
 
@@ -40,31 +54,51 @@
 
 </p>
 
-### Libraries
+### 📊 Data Analytics
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=pandas"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 
-<img src="https://img.shields.io/badge/Numpy-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 
-<img src="https://img.shields.io/badge/Matplotlib-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=flat-square"/>
+<img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
 
 </p>
 
-### BI Tools
+### 📈 BI & Visualization
 
 <p>
 
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi"/>
 
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
 
 </p>
+
+### ⚙ Tools
+
+Git • GitHub • VS Code • Jupyter Notebook • Google Colab • Jira
+
+---
+
+# 💼 Experience
+
+## 📌 Data Analyst Intern — QSpiders
+
+**Sep 2025 – Present**
+
+- Built interactive Power BI dashboards
+- Performed SQL querying & data cleaning
+- Created KPI reports and MIS dashboards
+- Automated reporting using Excel & Google Sheets
+- Worked on business reporting and analytics
 
 ---
 
@@ -72,69 +106,59 @@
 
 ## 📊 Customer Behavior Analysis
 
-✔ Customer Segmentation
+Python • SQL • Power BI
 
-✔ Sales Dashboard
+- Customer Segmentation
+- Sales Performance Analysis
+- KPI Dashboard
 
-✔ SQL + Python + Power BI
-
-🔗 https://github.com/keshavkhanepal/Customer_Behavior_Analysis
+🔗 Repository
 
 ---
 
-## 📈 S&P 500 Stock Dashboard
+## 📈 S&P 500 Stock Analysis Dashboard
 
-✔ Executive Dashboard
+Python • Power BI
 
-✔ Financial Analysis
+- Financial Analysis
+- Risk vs Return
+- Executive Dashboard
 
-✔ Risk Analysis
-
-🔗 https://github.com/keshavkhanepal/SP500-stock-analysis-dashboard
+🔗 Repository
 
 ---
 
 ## 🍽 Zomato Restaurant Analysis
 
-✔ Customer Behaviour
+Python
 
-✔ Restaurant Insights
+- Exploratory Data Analysis
+- Customer Behaviour
+- Data Visualization
 
-✔ Data Visualization
+🔗 Repository
 
 ---
 
 ## 💳 Credit Card Fraud Detection
 
-✔ Machine Learning
+Machine Learning
 
-✔ Fraud Prediction
+- Fraud Detection
+- Classification Models
+- Feature Engineering
 
-✔ Feature Engineering
-
----
-
-# 📜 Certifications
-
-🏆 IBM Data Science
-
-🏆 Deloitte Data Analytics
-
-🏆 AWS Cloud Practitioner
-
-🏆 Google Analytics
-
-🏆 JP Morgan Quantitative Research
+🔗 Repository
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=keshavkhanepal&show_icons=true&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=keshavkhanepal&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=keshavkhanepal&theme=github-dark"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=keshavkhanepal&theme=tokyonight"/>
 
 </p>
 
@@ -144,13 +168,13 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavkhanepal&layout=compact&theme=github_dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavkhanepal&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -160,7 +184,7 @@
 
 ---
 
-# 🏆 GitHub Trophy
+# 🏆 GitHub Trophies
 
 <p align="center">
 
@@ -170,38 +194,38 @@
 
 ---
 
-# 🐍 Contribution Snake
+# 📜 Certifications
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/keshavkhanepal/keshavkhanepal/output/github-contribution-grid-snake.svg"/>
-
-</p>
+- Google Analytics
+- IBM Python for Data Science
+- AWS Cloud Practitioner Essentials
+- Deloitte Data Analytics Simulation
+- J.P. Morgan Quantitative Research
 
 ---
 
-# 📫 Connect with Me
+# 📫 Let's Connect
 
 <p align="center">
 
-<a href="https://linkedin.com/in/chennakeshav-kanepogu">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:chennakeshavkanepogu@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://github.com/keshavkhanepal">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐ Thanks for visiting my profile!
+### ⭐ *"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
-</p>
+</div>
