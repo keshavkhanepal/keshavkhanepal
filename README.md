@@ -1,230 +1,125 @@
-<div align="center">
+# 👋 Chennakeshav Kanepogu | Data Analyst
 
-# 👋 Hi, I'm Chennakeshav Kanepogu
-
-### 📊 Data Analyst | Business Intelligence | Python | SQL | Power BI
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Turning+Data+into+Business+Insights;Python+%7C+SQL+%7C+Power+BI;Always+Learning+Something+New!"/>
-
-<br>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:chennakeshavkanepogu@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/keshavkhanepal">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-
-</div>
+Welcome! I'm a Data Analyst passionate about transforming raw data into meaningful business insights through analytics, visualization, and storytelling.
 
 ---
 
-# 💫 About Me
+## 🔍 About Me
 
-🎓 B.Tech Computer Science Engineering Graduate (2026)
+🎓 **B.Tech in Computer Science Engineering** (2026)
 
-💼 Data Analyst Intern @ QSpiders
+💼 **Data Analyst Intern** – QSpiders, Navi Mumbai
 
 📍 Mumbai, India
 
-📊 Passionate about solving business problems using data
+📩 **Email:** chennakeshavkanepogu@gmail.com
 
-📈 Skilled in Python, SQL, Power BI, Excel & Tableau
+🔗 **LinkedIn:** https://linkedin.com/in/chennakeshav-kanepogu
 
-🌱 Currently learning Machine Learning and Data Engineering
-
-🎯 Looking for Data Analyst & Business Intelligence opportunities
+🔗 **GitHub:** https://github.com/keshavkhanepal
 
 ---
 
-# 🛠 Tech Stack
+## 💼 Featured Projects
 
-### 👨‍💻 Programming
+### 📊 Customer Behavior Analysis
 
-<p>
+Analyzed **5,000+ customer transactions** to identify purchasing trends, customer segments, and revenue-driving behaviors using Python, SQL, and Power BI.
 
-<img src="https://skillicons.dev/icons?i=python,mysql"/>
+**Tech Stack:** Python • SQL • Power BI
 
-</p>
-
-### 📊 Data Analytics
-
-<p>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-
-</p>
-
-### 📈 BI & Visualization
-
-<p>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi"/>
-
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
-
-</p>
-
-### ⚙ Tools
-
-Git • GitHub • VS Code • Jupyter Notebook • Google Colab • Jira
+🔗 Repository:
+https://github.com/keshavkhanepal/Customer_Behavior_Analysis
 
 ---
 
-# 💼 Experience
+### 📈 S&P 500 Stock Analysis Dashboard
 
-## 📌 Data Analyst Intern — QSpiders
+Built an interactive dashboard to analyze **10,000+ stock records**, visualize trends, and evaluate risk-return performance.
 
-**Sep 2025 – Present**
+**Tech Stack:** Python • Pandas • Power BI
 
-- Built interactive Power BI dashboards
-- Performed SQL querying & data cleaning
-- Created KPI reports and MIS dashboards
-- Automated reporting using Excel & Google Sheets
-- Worked on business reporting and analytics
+🔗 Repository:
+https://github.com/keshavkhanepal/SP500-stock-analysis-dashboard
 
 ---
 
-# 🚀 Featured Projects
+### 🍽️ Zomato Restaurant Data Analysis
 
-## 📊 Customer Behavior Analysis
+Performed exploratory data analysis on restaurant data to uncover pricing patterns, customer preferences, and cuisine trends.
 
-Python • SQL • Power BI
+**Tech Stack:** Python • SQL • Power BI
 
-- Customer Segmentation
-- Sales Performance Analysis
-- KPI Dashboard
-
-🔗 Repository
+🔗 Repository:
+https://github.com/keshavkhanepal/Zomato-Restaurant-Data-Analysis
 
 ---
 
-## 📈 S&P 500 Stock Analysis Dashboard
+### 💳 Credit Card Fraud Detection
 
-Python • Power BI
+Developed a machine learning model for fraud detection using feature engineering, preprocessing, and classification techniques.
 
-- Financial Analysis
-- Risk vs Return
-- Executive Dashboard
+**Tech Stack:** Python • Scikit-learn
 
-🔗 Repository
-
----
-
-## 🍽 Zomato Restaurant Analysis
-
-Python
-
-- Exploratory Data Analysis
-- Customer Behaviour
-- Data Visualization
-
-🔗 Repository
+🔗 Repository:
+https://github.com/keshavkhanepal/Credit_Card_Fraud_Detection-Risk_Analysis
 
 ---
 
-## 💳 Credit Card Fraud Detection
+## 🧠 Technical Skills
 
-Machine Learning
+**Languages**
 
-- Fraud Detection
-- Classification Models
-- Feature Engineering
+- Python
+- SQL
 
-🔗 Repository
+**Libraries**
 
----
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
 
-# 📊 GitHub Analytics
+**Business Intelligence**
 
-<p align="center">
+- Power BI
+- Tableau
+- Looker Studio
+- Excel
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=keshavkhanepal&show_icons=true&theme=tokyonight"/>
+**Tools**
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=keshavkhanepal&theme=tokyonight"/>
-
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavkhanepal&layout=compact&theme=tokyonight"/>
-
-</p>
+- Git
+- GitHub
+- Jupyter Notebook
+- VS Code
 
 ---
 
-# 📈 Contribution Graph
+## 📜 Certifications
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=keshavkhanepal&theme=github-compact"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=keshavkhanepal&theme=algolia&row=1&column=7"/>
-
-</p>
-
----
-
-# 📜 Certifications
-
-- Google Analytics
-- IBM Python for Data Science
+- IBM Python for Data Science, Data Analysis & SQL
+- Google Analytics Certification
 - AWS Cloud Practitioner Essentials
-- Deloitte Data Analytics Simulation
-- J.P. Morgan Quantitative Research
+- Deloitte Data Analytics Virtual Experience
+- J.P. Morgan Quantitative Research Virtual Experience
 
 ---
 
-# 📫 Let's Connect
+## 🎯 Career Objective
 
-<p align="center">
+I'm passionate about solving real-world business problems with data and building dashboards that support better decision-making.
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:chennakeshavkanepogu@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/keshavkhanepal">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
+I'm currently seeking opportunities as a **Data Analyst**, **Business Analyst**, or **Business Intelligence Analyst**.
 
 ---
 
-<div align="center">
+## 🤝 Let's Connect
 
-### ⭐ *"Without data, you're just another person with an opinion."* — W. Edwards Deming
+If you're looking for someone passionate about analytics, visualization, and business insights, feel free to connect!
 
-</div>
+📧 chennakeshavkanepogu@gmail.com
+
+💼 LinkedIn:
+https://linkedin.com/in/chennakeshav-kanepogu
