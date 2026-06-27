@@ -20,7 +20,6 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=keshavkhanepal&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
